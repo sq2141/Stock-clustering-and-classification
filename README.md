@@ -1,4 +1,4 @@
-# Stock-classification
+# Stock-clustering-and-classification
 
 Cluster and classify S&P500 stock sector type using percent daily changes in 2017
 
